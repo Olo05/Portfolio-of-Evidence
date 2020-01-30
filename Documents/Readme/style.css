@@ -1,0 +1,42 @@
+body {
+ background-image: url('primary.jfif');  /* The image used */
+ height: 500px;                          /* You must set a specified height */
+ background-position: center;           /* Center the image */
+ background-repeat: no-repeat;         /* Do not repeat the image */
+ background-size: cover;               /* Resize the background image to cover the entire container */
+
+}
+
+.navbar {
+    
+}
+
+h2 {
+    color: black;
+   
+}
+
+.footer {
+    border: 3px solid white;
+}
+
+p {
+ color: black;
+ font-weight: bolder;
+ font-size: large;
+}
+
+.main {
+    border: 2px solid orange;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+

@@ -1,0 +1,79 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 10px;
+}
+
+.navbar {
+    background: lightskyblue;
+    padding: 15px 17px;
+    margin: 15px;
+    float: right;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+body {
+    background-image: url('imageGen.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 60px;
+    color: black;
+    text-decoration:;
+    background: royalblue;
+    margin: 10px;
+    padding: 0px;
+}
+
+.navbar a:hover {
+    color: goldenrod;
+    background-color: lightseagreen;
+    margin: 0px;
+    padding: 15px;
+    overflow: hidden;
+    color: black;
+}
+
+p {
+    font-family: 'Courier New';
+    color: black;
+    text-align: left;
+    font-size: xx-large;
+}
+
+.navbar a {
+    color: blueviolet;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+h2 {
+    text-align: left;
+    color: orange;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+li {
+    color: black;
+    font-family: 'Courier New';
+    font-size: 20px;
+}
+
+address {
+    color: black;
+    font-family: 'Courier New';
+    font-size: 20px;
+}
